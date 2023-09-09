@@ -14,5 +14,5 @@ print("AVERAGE: " + str(avg) + "%")
 
 if avg > 75:
     print("Congratulations You Passed!")
-elif avg < 75:
+else:
     print("You Failed!")
